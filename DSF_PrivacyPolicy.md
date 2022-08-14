@@ -1,7 +1,6 @@
 ## Deep Space Frontier: Privacy Policy
 
-Due to usage of in-game ads, following data will be collected, used or shared.</br>
-Collected, used, or shared data includes:</br>
+Due to usage of in-game ads, following data will be collected, used or shared:</br>
 IP address</br>
 User product interactions</br>
 Diagnostic information</br>
