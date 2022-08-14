@@ -1,8 +1,6 @@
 ## Deep Space Frontier: Privacy Policy
 
-This app was not programmed to, in any way, collect, use or share user data.
-
-Optional in-game ads, will collect, use or share data.</br>
+Due to usage of in-game ads, following data will be collected, used or shared.</br>
 Collected, used, or shared data includes:</br>
 IP address</br>
 User product interactions</br>
